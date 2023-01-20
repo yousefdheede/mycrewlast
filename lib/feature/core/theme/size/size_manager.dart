@@ -1,0 +1,122 @@
+import 'package:flutter_screenutil/flutter_screenutil.dart';
+
+abstract class SizeManager {
+  // to do for reigrt
+  static double r4 = 4.0.r;
+  static double r5 = 5.0.r;
+  static double r6 = 6.0.r;
+  static double r7 = 7.0.r;
+  static double r8 = 8.0.r;
+  static double r12 = 12.0.r;
+  static double r14 = 14.0.r;
+  static double r16 = 16.0.r;
+  static double r20 = 20.0.r;
+  static double r22 = 22.0.r;
+  static double r24 = 24.0.r;
+  static double r28 = 28.0.r;
+  static double r32 = 32.0.r;
+  static double r36 = 36.0.r;
+  static double r40 = 40.0.r;
+  static double r44 = 44.0.r;
+  static double r48 = 48.0.r;
+  static double r52 = 52.0.r;
+  static double r56 = 56.0.r;
+  static double r60 = 60.0.r;
+  static double r64 = 64.0.r;
+  static double r68 = 68.0.r;
+  static double r72 = 72.0.r;
+  static double r76 = 76.0.r;
+  static double r80 = 80.0.r;
+  static double r96 = 96.0.r;
+  static double r104 = 104.0.r;
+  static double r124 = 124.0.r;
+
+  static double w2 = 2.0.w;
+  static double w3 = 3.0.w;
+  static double w4 = 4.0.w;
+  static double w6 = 6.0.w;
+  static double w8 = 8.0.w;
+  static double w12 = 12.0.w;
+  static double w16 = 16.0.w;
+  static double w20 = 20.0.w;
+  static double w24 = 24.0.w;
+  static double w28 = 28.0.w;
+  static double w32 = 32.0.w;
+  static double w36 = 36.0.w;
+  static double w40 = 40.0.w;
+  static double w44 = 44.0.w;
+  static double w48 = 48.0.w;
+  static double w50 = 50.0.w;
+  static double w52 = 52.0.w;
+  static double w56 = 56.0.w;
+  static double w60 = 60.0.w;
+  static double w64 = 64.0.w;
+  static double w68 = 68.0.w;
+  static double w72 = 72.0.w;
+  static double w74 = 74.0.w;
+  static double w76 = 76.0.w;
+  static double w80 = 80.0.w;
+  static double w88 = 88.0.w;
+  static double w90 = 90.0.w;
+  static double w96 = 96.0.w;
+  static double w110 = 110.0.w;
+  static double w104 = 104.0.w;
+  static double w114 = 114.0.w;
+  static double w124 = 124.0.w;
+  static double w160 = 160.0.w;
+
+  static double h2 = 2.0.h;
+  static double h3 = 3.0.h;
+  static double h4 = 4.0.h;
+  static double h5 = 5.0.h;
+  static double h6 = 6.0.h;
+  static double h8 = 8.0.h;
+  static double h12 = 12.0.h;
+  static double h14 = 14.0.h;
+  static double h16 = 16.0.h;
+  static double h20 = 20.0.h;
+  static double h24 = 24.0.h;
+  static double h28 = 28.0.h;
+  static double h32 = 32.0.h;
+  static double h34 = 34.0.h;
+  static double h36 = 36.0.h;
+  static double h40 = 40.0.h;
+  static double h44 = 44.0.h;
+  static double h46 = 46.0.h;
+  static double h48 = 48.0.h;
+  static double h52 = 52.0.h;
+  static double h56 = 56.0.h;
+  static double h60 = 60.0.h;
+  static double h64 = 64.0.h;
+  static double h68 = 68.0.h;
+  static double h72 = 72.0.h;
+  static double h74 = 74.0.h;
+  static double h76 = 76.0.h;
+  static double h80 = 80.0.h;
+  static double h96 = 96.0.h;
+  static double h98 = 98.0.h;
+  static double h104 = 104.0.h;
+  static double h124 = 124.0.h;
+  static double h147 = 147.0.h;
+  static double h160 = 160.0.h;
+  static double h164 = 164.0.h;
+  static double h174 = 174.0.h;
+  static double h200 = 200.0.h;
+  static double h215 = 215.0.h;
+  static double h110 = 110.0.h;
+  static double h130 = 130.0.h;
+  static double h184 = 184.0.h;
+  static double h189 = 189.0.h;
+  static double h222 = 222.0.h;
+  static double h236 = 236.0.h;
+  static double h267 = 267.0.h;
+  static double h10 = 10.0.h;
+
+  static double w300 = 300.0.w;
+
+  static double w290 = 290.0.w;
+
+  static double h18 = 18.0.h;
+  //to do for raduis
+
+}

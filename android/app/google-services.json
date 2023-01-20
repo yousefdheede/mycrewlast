@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "310008693981",
+    "project_id": "mycrew-102af",
+    "storage_bucket": "mycrew-102af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310008693981:android:0eb02ac6fba0cc3559c734",
+        "android_client_info": {
+          "package_name": "com.dana.my_crew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310008693981-6vnfcl0sisb0rnoju99nk7jip91r6hm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA91-Ikf-5MI2pWjDlhhh52zYkqjX-ZnU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "310008693981-6vnfcl0sisb0rnoju99nk7jip91r6hm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
